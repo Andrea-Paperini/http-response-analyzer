@@ -1,0 +1,13 @@
+body {
+    background-color: lightgreen;
+
+    .fi {
+        position: fixed;
+        right: 0;
+        top: 50px;
+    }
+}
+
+#carouselExampleIndicators > ol {
+    bottom: -30px;
+}
